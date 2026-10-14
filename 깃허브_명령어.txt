@@ -6,7 +6,7 @@ git add .
 git commit -m "명함 페이지 추가"
 
 # ③ GitHub에 day07-card 저장소를 만들고(Public, README 체크 안 함) 연결해 올린다
-git remote add -v origin https://github.com/사용자명/day07-card.git
+git remote add -v origin https://github.com/gwangse90-ship-it/day07-card.git
 git branch -M main
 git push -u origin main
 
